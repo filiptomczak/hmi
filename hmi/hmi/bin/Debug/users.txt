@@ -1,0 +1,8 @@
+admin,,admin
+filip,IH,expert
+piotr,	,operator
+pawel,,lider
+sebix,,admin
+seb,,admin
+sebix,,admin
+chujek,,chujek
